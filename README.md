@@ -23,5 +23,6 @@ spring.datasource.password=ваш пароль для базы данных.</i>
 <b>Более подробная документция будет доступна после запуска по : http://localhost:8080/swagger-ui.html </b></br>
 
 
-![Image alt](C:\projectsJava\survey\src\main\resources\img\rest-docs.png)
+![Image alt]((https://github.com/IgorNoroc/survey/raw/master/src/main/resources/img/rest-docs.png)
+)
 
